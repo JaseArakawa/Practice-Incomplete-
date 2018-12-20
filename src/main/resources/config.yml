@@ -1,0 +1,19 @@
+#     -----------------------
+#     Config Version: 1.0.0
+#     ------------------------
+
+#     ------  WARNING:  ------
+# NOTE: You should not edit this while your server is online!
+# IT WILL CAUSE SEVERE ISSUES
+#     ------  WARNING:  ------
+
+
+#
+# MAIN SPAWN AREA
+#
+main-spawn:
+  x: 0
+  y: 0
+  z: 0
+  pitch: 0
+  yaw: 0
